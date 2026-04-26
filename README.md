@@ -102,6 +102,7 @@ Provides a high-level view of financial performance.
 ---
 
 ## 📁 Project Structure
+```
 Banking-Analytics-PowerBI
 │
 ├── dashboard
@@ -115,6 +116,7 @@ Banking-Analytics-PowerBI
 │   ├── transaction_dashboard.png
 │   ├── loan_dashboard.png
 │   └── performance_dashboard.png
+```
 
 ## 👨‍💻 Author
 **Kamal Damani**  
