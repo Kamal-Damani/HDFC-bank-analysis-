@@ -105,16 +105,16 @@ Provides a high-level view of financial performance.
 Banking-Analytics-PowerBI
 │
 ├── dashboard
-│ └── banking_analytics_dashboard.pbix
+│   └── banking_analytics_dashboard.pbix
 │
 ├── dataset
-│ └── banking_dataset.xlsx
+│   └── banking_dataset.xlsx
 │
 ├── screenshots
-│ ├── customer_dashboard.png
-│ ├── transaction_dashboard.png
-│ ├── loan_dashboard.png
-│ └── performance_dashboard.png
+│   ├── customer_dashboard.png
+│   ├── transaction_dashboard.png
+│   ├── loan_dashboard.png
+│   └── performance_dashboard.png
 
 ## 👨‍💻 Author
 **Kamal Damani**  
