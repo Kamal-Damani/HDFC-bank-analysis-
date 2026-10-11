@@ -105,11 +105,9 @@ Provides a high-level view of financial performance.
 ```
 Banking-Analytics-PowerBI
 │
-├── dashboard
-│   └── banking_analytics_dashboard.pbix
+├── HDFC_dashboard.pbix
 │
-├── dataset
-│   └── banking_dataset.xlsx
+├── banking_dataset.xlsx
 │
 ├── screenshots
 │   ├── customer_dashboard.png
